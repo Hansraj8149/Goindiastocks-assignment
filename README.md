@@ -38,3 +38,4 @@ This Project utilizes the following technologies:
 Next.js - React framework for building web applications
 Tailwind CSS - Utility-first CSS framework
 Lucide Icons - Icon library for web projects
+Shadcn- A React components library.
