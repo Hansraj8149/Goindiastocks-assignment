@@ -31,3 +31,10 @@ After installing dependencies, you can run the project locally with the followin
 npm run dev
 ```
 Open your browser and navigate to http://localhost:3000 to view the project.
+
+## Tech Stack
+This Project utilizes the following technologies:
+
+Next.js - React framework for building web applications
+Tailwind CSS - Utility-first CSS framework
+Lucide Icons - Icon library for web projects
